@@ -1,0 +1,7 @@
+D:\HK223-n3-k2\C#\BT3_LTCS_TranThanhLong\BT3_LTCS_TranThanhLong\bin\Debug\BT3_LTCS_TranThanhLong.exe.config
+D:\HK223-n3-k2\C#\BT3_LTCS_TranThanhLong\BT3_LTCS_TranThanhLong\bin\Debug\BT3_LTCS_TranThanhLong.exe
+D:\HK223-n3-k2\C#\BT3_LTCS_TranThanhLong\BT3_LTCS_TranThanhLong\bin\Debug\BT3_LTCS_TranThanhLong.pdb
+D:\HK223-n3-k2\C#\BT3_LTCS_TranThanhLong\BT3_LTCS_TranThanhLong\obj\Debug\BT3_LTCS_TranThanhLong.csproj.AssemblyReference.cache
+D:\HK223-n3-k2\C#\BT3_LTCS_TranThanhLong\BT3_LTCS_TranThanhLong\obj\Debug\BT3_LTCS_TranThanhLong.csproj.CoreCompileInputs.cache
+D:\HK223-n3-k2\C#\BT3_LTCS_TranThanhLong\BT3_LTCS_TranThanhLong\obj\Debug\BT3_LTCS_TranThanhLong.exe
+D:\HK223-n3-k2\C#\BT3_LTCS_TranThanhLong\BT3_LTCS_TranThanhLong\obj\Debug\BT3_LTCS_TranThanhLong.pdb
